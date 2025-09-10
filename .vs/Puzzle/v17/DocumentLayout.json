@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\Puzzle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A978CC9A-7491-7253-286F-63E1E9E5B875}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\puzzle\\assets\\script\\sceneloader1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A978CC9A-7491-7253-286F-63E1E9E5B875}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\sceneloader1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A978CC9A-7491-7253-286F-63E1E9E5B875}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\Puzzle\\assets\\cutekawaiiguipack\\demo\\scripts\\scenetransition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A978CC9A-7491-7253-286F-63E1E9E5B875}|Assembly-CSharp.csproj|solutionrelative:assets\\cutekawaiiguipack\\demo\\scripts\\scenetransition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A978CC9A-7491-7253-286F-63E1E9E5B875}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\Puzzle\\assets\\cutekawaiiguipack\\demo\\scripts\\transition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A978CC9A-7491-7253-286F-63E1E9E5B875}|Assembly-CSharp.csproj|solutionrelative:assets\\cutekawaiiguipack\\demo\\scripts\\transition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A978CC9A-7491-7253-286F-63E1E9E5B875}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\Puzzle\\assets\\script\\sceneloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A978CC9A-7491-7253-286F-63E1E9E5B875}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\sceneloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A978CC9A-7491-7253-286F-63E1E9E5B875}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\Puzzle\\assets\\script\\typewritereffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A978CC9A-7491-7253-286F-63E1E9E5B875}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\typewritereffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A978CC9A-7491-7253-286F-63E1E9E5B875}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\Puzzle\\assets\\script\\generatepuzzle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A978CC9A-7491-7253-286F-63E1E9E5B875}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\generatepuzzle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A978CC9A-7491-7253-286F-63E1E9E5B875}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\Puzzle\\assets\\script\\tiledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A978CC9A-7491-7253-286F-63E1E9E5B875}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\tiledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A978CC9A-7491-7253-286F-63E1E9E5B875}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\Puzzle\\assets\\script\\introtextcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A978CC9A-7491-7253-286F-63E1E9E5B875}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\introtextcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\user\\desktop\\puzzle\\assets\\script\\sceneloader2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\script\\sceneloader2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SceneLoader.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Puzzle\\Assets\\Script\\SceneLoader.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\SceneLoader.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Puzzle\\Assets\\Script\\SceneLoader.cs",
+              "RelativeToolTip": "Assets\\Script\\SceneLoader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T12:40:37.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SceneLoader1.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Puzzle\\Assets\\Script\\SceneLoader1.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\SceneLoader1.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Puzzle\\Assets\\Script\\SceneLoader1.cs",
+              "RelativeToolTip": "Assets\\Script\\SceneLoader1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T18:21:37.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SceneLoader2.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Puzzle\\Assets\\Script\\SceneLoader2.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\SceneLoader2.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Puzzle\\Assets\\Script\\SceneLoader2.cs",
+              "RelativeToolTip": "Assets\\Script\\SceneLoader2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T08:24:42.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SceneTransition.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Puzzle\\Assets\\CuteKawaiiGUIPack\\Demo\\Scripts\\SceneTransition.cs",
+              "RelativeDocumentMoniker": "Assets\\CuteKawaiiGUIPack\\Demo\\Scripts\\SceneTransition.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Puzzle\\Assets\\CuteKawaiiGUIPack\\Demo\\Scripts\\SceneTransition.cs",
+              "RelativeToolTip": "Assets\\CuteKawaiiGUIPack\\Demo\\Scripts\\SceneTransition.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T08:23:15.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TypewriterEffect.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Puzzle\\Assets\\Script\\TypewriterEffect.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\TypewriterEffect.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Puzzle\\Assets\\Script\\TypewriterEffect.cs",
+              "RelativeToolTip": "Assets\\Script\\TypewriterEffect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T07:31:27.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Transition.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Puzzle\\Assets\\CuteKawaiiGUIPack\\Demo\\Scripts\\Transition.cs",
+              "RelativeDocumentMoniker": "Assets\\CuteKawaiiGUIPack\\Demo\\Scripts\\Transition.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Puzzle\\Assets\\CuteKawaiiGUIPack\\Demo\\Scripts\\Transition.cs",
+              "RelativeToolTip": "Assets\\CuteKawaiiGUIPack\\Demo\\Scripts\\Transition.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAkwE4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T23:54:43.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IntroTextController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Puzzle\\Assets\\Script\\IntroTextController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\IntroTextController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Puzzle\\Assets\\Script\\IntroTextController.cs",
+              "RelativeToolTip": "Assets\\Script\\IntroTextController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T23:38:00.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TileData.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Puzzle\\Assets\\Script\\TileData.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\TileData.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Puzzle\\Assets\\Script\\TileData.cs",
+              "RelativeToolTip": "Assets\\Script\\TileData.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwBgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T23:48:24.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GeneratePuzzle.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Puzzle\\Assets\\Script\\GeneratePuzzle.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\GeneratePuzzle.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Puzzle\\Assets\\Script\\GeneratePuzzle.cs",
+              "RelativeToolTip": "Assets\\Script\\GeneratePuzzle.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAxwCEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T07:18:01.268Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
