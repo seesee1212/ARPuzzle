@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\Puzzle\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\Puzzle\\Library\\PackageCache\\com.unity.ugui@a0f5d16b3c82\\Editor\\TMP\\TMPro_FontAssetCreatorWindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.ugui@a0f5d16b3c82\\Editor\\TMP\\TMPro_FontAssetCreatorWindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A978CC9A-7491-7253-286F-63E1E9E5B875}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\puzzle\\assets\\script\\sceneloader1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A978CC9A-7491-7253-286F-63E1E9E5B875}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\sceneloader1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -35,8 +39,8 @@
       "RelativeMoniker": "D:0:0:{A978CC9A-7491-7253-286F-63E1E9E5B875}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\introtextcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\user\\desktop\\puzzle\\assets\\script\\sceneloader2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\script\\sceneloader2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\Puzzle\\Assets\\Script\\SceneLoader2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\SceneLoader2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,11 +50,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "TMPro_FontAssetCreatorWindow.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Puzzle\\Library\\PackageCache\\com.unity.ugui@a0f5d16b3c82\\Editor\\TMP\\TMPro_FontAssetCreatorWindow.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.ugui@a0f5d16b3c82\\Editor\\TMP\\TMPro_FontAssetCreatorWindow.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Puzzle\\Library\\PackageCache\\com.unity.ugui@a0f5d16b3c82\\Editor\\TMP\\TMPro_FontAssetCreatorWindow.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.ugui@a0f5d16b3c82\\Editor\\TMP\\TMPro_FontAssetCreatorWindow.cs",
+              "ViewState": "AgIAAH0BAAAAAAAAAAAEwIwBAACUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T11:04:56.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "SceneLoader.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Puzzle\\Assets\\Script\\SceneLoader.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\SceneLoader.cs",
@@ -58,12 +75,11 @@
               "RelativeToolTip": "Assets\\Script\\SceneLoader.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T12:40:37.936Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-08T12:40:37.936Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "SceneLoader1.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Puzzle\\Assets\\Script\\SceneLoader1.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\SceneLoader1.cs",
@@ -76,7 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "SceneLoader2.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Puzzle\\Assets\\Script\\SceneLoader2.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\SceneLoader2.cs",
@@ -88,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "SceneTransition.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Puzzle\\Assets\\CuteKawaiiGUIPack\\Demo\\Scripts\\SceneTransition.cs",
               "RelativeDocumentMoniker": "Assets\\CuteKawaiiGUIPack\\Demo\\Scripts\\SceneTransition.cs",
@@ -96,12 +112,11 @@
               "RelativeToolTip": "Assets\\CuteKawaiiGUIPack\\Demo\\Scripts\\SceneTransition.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T08:23:15.748Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-10T08:23:15.748Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "TypewriterEffect.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Puzzle\\Assets\\Script\\TypewriterEffect.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\TypewriterEffect.cs",
@@ -113,7 +128,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Transition.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Puzzle\\Assets\\CuteKawaiiGUIPack\\Demo\\Scripts\\Transition.cs",
               "RelativeDocumentMoniker": "Assets\\CuteKawaiiGUIPack\\Demo\\Scripts\\Transition.cs",
@@ -121,12 +136,11 @@
               "RelativeToolTip": "Assets\\CuteKawaiiGUIPack\\Demo\\Scripts\\Transition.cs",
               "ViewState": "AgIAAEAAAAAAAAAAAAAkwE4AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T23:54:43.497Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-08T23:54:43.497Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "IntroTextController.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Puzzle\\Assets\\Script\\IntroTextController.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\IntroTextController.cs",
@@ -138,7 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "TileData.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Puzzle\\Assets\\Script\\TileData.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\TileData.cs",
@@ -150,7 +164,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "GeneratePuzzle.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Puzzle\\Assets\\Script\\GeneratePuzzle.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\GeneratePuzzle.cs",

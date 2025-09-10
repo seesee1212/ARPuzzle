@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: b49e9497cfabbf54ea76143615355d16
+guid: 7222f9dc114c49e40a1146cfd951b457
 TrueTypeFontImporter:
   externalObjects: {}
   serializedVersion: 4
@@ -9,7 +9,7 @@ TrueTypeFontImporter:
   characterPadding: 1
   includeFontData: 1
   fontNames:
-  - Maplestory
+  - Pretendard
   fallbackFontReferences: []
   customCharacters: 
   fontRenderingMode: 0

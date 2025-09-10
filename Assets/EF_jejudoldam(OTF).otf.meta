@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 09efd3866764f8748baa16283d79d9c3
+guid: 569fceb5f5fd7124b8e8e5609de6a28e
 TrueTypeFontImporter:
   externalObjects: {}
   serializedVersion: 4
@@ -9,7 +9,7 @@ TrueTypeFontImporter:
   characterPadding: 1
   includeFontData: 1
   fontNames:
-  - Maplestory
+  - EF_jejudoldam
   fallbackFontReferences: []
   customCharacters: 
   fontRenderingMode: 0
